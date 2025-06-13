@@ -9,6 +9,7 @@
 
 ![Interface Streamlit](captures/interface.png)
 
+## 🎯 Objectif du projet
 Mettre en place un système automatisé pour :
 
 - Récupérer les prestations réalisées par des profs freelance depuis Notion 📄
