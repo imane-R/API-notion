@@ -5,8 +5,6 @@
 
 ---
 
-## 🎯 Objectif du projet
-
 ## 🖼️ Aperçu de l'interface Streamlit
 
 ![Interface Streamlit](captures/interface.png)
